@@ -1,0 +1,21 @@
+prakash kumar jena 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@DESKTOP-2I8837B.>
+#
+# On branch master
+# Changes to be committed:
+#	modified:   prakash/jena.txt
+#
+# Untracked files:
+#	.bash_history
+#	.bash_logout
+#	.bashrc
+#	.cache/
+#	.landscape/
+#	.lesshst
+#	.motd_shown
+#	.profile
+#	.sudo_as_admin_successful
+#
